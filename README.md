@@ -1,8 +1,12 @@
+### This is a 'fork' of [tonybanters](https://github.com/tonybanters/dwm/tree/master)
+
+### README.md is being worked on
+
 # Prerequisites 
 
 `gcc, rofi, dmenu, slock, xorg-server, maim, xclip`
 
-# DWM Keybindings
+# DWM Keybindings [WIP]
 
 This document describes the keybindings configured in my DWM setup.
 
